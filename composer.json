@@ -1,0 +1,13 @@
+{
+    "name": "leonidas/package",
+    "description": "Package",
+    "type": "metapackage",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Chris Williams",
+            "email": "spider.mane.web@gmail.com"
+        }
+    ],
+    "require": {}
+}
